@@ -1,0 +1,30 @@
+/* navbar section */
+#navbar{
+    flex-direction: column;
+}
+#navbar ul li a{
+    font-size: 1.1rem;
+    padding: 0px 17px;
+    padding-bottom: 4px;
+}
+/* home2 section */
+/* utility section */
+.h-primary{
+    font-size: 2rem;
+}
+.h-primary1{
+    font-size: 2rem;
+}
+.h-primary2{
+    font-size: 2rem;
+}
+.h-primary3{
+    font-size: 3rem;
+}
+.h-secondary{
+    font-size: 1rem;
+}
+.p-primary{
+    font-size: 1rem;
+    padding: 0px 10px;
+}
