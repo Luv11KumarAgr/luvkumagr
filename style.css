@@ -119,10 +119,10 @@ html{
 }
 #social .box{
     border: 2px solid rgb(242,96,48);
-    width: 200px;
+    width: 91px;
     text-align: center!important;
     padding: 9px;
-    margin: 68px 76px;
+    margin: 70px 45px;
     border-radius: 23px;
 }
 #social .box:hover{
