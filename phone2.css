@@ -9,11 +9,11 @@
 }
 /* home2 section */
 #home p{
-    font-size: .7rem;
+    font-size: .5rem;
 }
 /* utility section */
 .h-primary{
-    font-size: .8rem;
+    font-size: .7rem;
     padding: 13px 0px;
 }
 .h-primary1{
@@ -30,7 +30,7 @@
 }
 .p-primary{
     font-size: 1.3rem;
-    padding: 0px 10px;
+    padding: 0px 0px;
 }
 .btn{
     padding: 6px 9px;
